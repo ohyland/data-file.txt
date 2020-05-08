@@ -1,0 +1,3 @@
+This is file is accessed via a XMLHttpRequest
+This is a plain text file stored on GitHub.
+Thank you for accessing this file.
